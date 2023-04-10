@@ -1,4 +1,10 @@
 # CMIVQA Baseline 🌟
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/WENGSYX/CMIVQA_Baseline.svg?color=blue&style=flat-square">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/WENGSYX/CMIVQA_Baseline">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WENGSYX/CMIVQA_Baseline">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WENGSYX/CMIVQA_Baseline">
+</p>
 
 
 欢迎来到我们的CMIVQA比赛基线代码仓库！在这里，你将找到用于解决Track 1，Track 2 和Track 3任务的基线代码。下面是仓库的内容概述和如何使用基线代码进行训练和测试的说明。
