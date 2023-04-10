@@ -6,9 +6,9 @@
 
 ## 方法
 
-![main](../task1/image/main.png)
+![main](./image/main.png)
 
-###### we propose a novel cross-modal mutual knowledge transfer span localization (MutualSL) method to reduce the cross-modal knowledge deviation shown in Fig.~\ref{sample2}(d). Specifically, the MutualSL uses both visual predictor and textual predictor, where these two predictors have different prediction targets so that they have different strength perceptions of different-modal information. We expect that these two predictors can enhance the information perception of their own modal. Each predictor needs to predict the output value of another predictor on the basis of the target answer in the training stage. Then we design a one-way dynamic loss function (ODL) to dynamically adjust the knowledge transfer, which can alleviate the difference of cross-modal knowledge transferring in the training process.
+###### 这个任务是关于视频语料库视觉答案定位（VCVAL），目标是在大量未修剪，未分段的教学视频中使用自然语言问题定位视觉答案。为了解决这个问题，我们提出了一种跨模态对比全局跨度（CCGS）方法，联合训练视频语料库检索和视觉答案定位任务。
 
 ## 环境安装
 
@@ -111,19 +111,14 @@ python test.py
 
 
 
-### contributions
-
-- we propose the MutualSL method, which for the first time uses two different predictors in VAL tasks meanwhile, and uses a Look-up Table to achieve cross-modal knowledge transfer; 
-- We design ODL to dynamically adjust the knowledge transfer, which can alleviate the differences in knowledge transfer between different predictors
-- We have conducted extensive experiments to prove the effectiveness of the MutualSL, where results show that the proposed method outperforms all other competitive SOTA methods in VAL tasks.
 
 ## Cite
 
 ```
-@article{weng2022visual,
-  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
-  author={Weng, Yixuan and Li, Bin},
-  journal={arXiv preprint arXiv:2210.14823},
+@article{li2022learning,
+  title={Learning to Locate Visual Answer in Video Corpus Using Question},
+  author={Li, Bin and Weng, Yixuan and Sun, Bin and Li, Shutao},
+  journal={arXiv preprint arXiv:2210.05423},
   year={2022}
 }
 
