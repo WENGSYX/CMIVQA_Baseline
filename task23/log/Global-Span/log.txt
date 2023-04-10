@@ -1,0 +1,13 @@
+Global-Span
+-----------------2022-10-12 13:22:26-----------------shape: base
+seed: 2
+maxlen: 1800
+epochs: 32
+batchsize: 1
+lr: 1e-05
+num_workers: 0
+weight_decay: 0
+device: 0
+highlight_hyperparameter: 0.25
+loss_hyperparameter: 0.0
+
