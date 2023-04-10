@@ -109,10 +109,10 @@ python test.py
 
 ## Cite
 ```
-@article{li2022learning,
-  title={Learning to Locate Visual Answer in Video Corpus Using Question},
-  author={Li, Bin and Weng, Yixuan and Sun, Bin and Li, Shutao},
-  journal={arXiv preprint arXiv:2210.05423},
+@article{weng2022visual,
+  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
+  author={Weng, Yixuan and Li, Bin},
+  journal={arXiv preprint arXiv:2210.14823},
   year={2022}
 }
 ```
