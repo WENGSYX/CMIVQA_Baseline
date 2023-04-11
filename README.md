@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./task1/image/cmivqa.png" alt="cmivqa" width="50%" height="50%">
+  <img src="./task1/image/cmivqa.png" alt="cmivqa" width="65%" height="65%">
 </p>
 欢迎来到我们的CMIVQA比赛基线代码仓库！在这里，你将找到用于解决Track 1，Track 2 和Track 3任务的基线代码。下面是仓库的内容概述和如何使用基线代码进行训练和测试的说明。
 每个子项目都包含两个主要部分：环境安装和快速开始。请确保按照下面的说明正确配置环境，并使用我们提供的示例代码进行训练和测试。祝你好运！😃
@@ -45,6 +45,7 @@
 ```
 
 ### 官方微信群
-![wechat](./task1/image/wechat.jpg)
-
+<p align="center">
+  <img src="./task1/image/wechat.jpg" alt="cmivqa" width="65%" height="65%">
+</p>
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
