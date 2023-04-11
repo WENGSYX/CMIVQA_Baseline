@@ -22,7 +22,7 @@
 
 详细的方法描述和实现可以在子目录的README.md文件中找到。[点击此处查看子目录的README.md](https://github.com/WENGSYX/CMIVQA_Baseline/tree/main/task23)
 [Issues](https://github.com/WENGSYX/CMIVQA_Baseline/issues)
-### 如果在环境部署或者代码运行上出现问题，欢迎提[Issues](https://github.com/WENGSYX/CMIVQA_Baseline/issues),或者联系[Yixuan Weng](wengsyx@gmail.com)或[Bin Li](libincn@hnu.edu.cn)
+### 如果在环境部署或者代码运行上出现问题，欢迎提[Issues](https://github.com/WENGSYX/CMIVQA_Baseline/issues),或者联系[Yixuan Weng](mailto:wengsyx@gmail.com)或[Bin Li](mailto:libincn@hnu.edu.cn)
 
 
 ### 如果您在研究中使用了我们的代码，请引用以下论文：
