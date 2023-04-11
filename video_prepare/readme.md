@@ -5,5 +5,5 @@ If you want to prepare your own video features, please follow these steps:
 
 2) Run the following command
 
-``python prepare/extract_medvidqa.py
+``python video_prepare/extract_medvidqa.py
 ``
