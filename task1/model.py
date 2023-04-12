@@ -1768,7 +1768,7 @@ class HighLightLayer(nn.Module):
         mask = mask.type(torch.float32)
         loss = torch.sum(loss_per_location * mask) / (torch.sum(mask) + epsilon)
         return loss
-class MutualSL(DebertaV2PreTrainedModel):
+class MutualSLModel(DebertaV2PreTrainedModel):
     _keys_to_ignore_on_load_unexpected = [r"pooler"]
 
     def __init__(self, config):
