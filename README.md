@@ -48,4 +48,5 @@
 <p align="center">
   <img src="./task1/image/wechat.jpg" alt="cmivqa" width="45%" height="45%">
 </p>
+
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
