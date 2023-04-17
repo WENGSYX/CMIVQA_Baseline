@@ -26,6 +26,9 @@
 [Issues](https://github.com/WENGSYX/CMIVQA_Baseline/issues)
 ### 如果在环境部署或者代码运行上出现问题，欢迎提[Issues](https://github.com/WENGSYX/CMIVQA_Baseline/issues),或者联系[Yixuan Weng](mailto:wengsyx@gmail.com)或[Bin Li](mailto:libincn@hnu.edu.cn)
 
+### 特别提醒！
+###### 2023/4/17 我们在百度云盘中更正了LILVsv4Ft_E和D_igZblZVp0两则视频，对于已下载的团队，可重新下载这两则视频及其npy文件。
+
 
 ### 如果您在研究中使用了我们的代码，请引用以下论文：
 ```
@@ -46,7 +49,7 @@
 
 ### 官方微信群
 <p align="center">
-  <img src="./task1/image/wechat.jpg" alt="cmivqa" width="45%" height="45%">
+  <img src="./task1/image/wuchat.jpg" alt="cmivqa" width="45%" height="45%">
 </p>
 
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
