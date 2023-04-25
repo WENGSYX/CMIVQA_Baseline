@@ -49,7 +49,7 @@
 
 ### 官方微信群
 <p align="center">
-  <img src="./task1/image/wuchat.jpg" alt="cmivqa" width="45%" height="45%">
+  <img src="./task1/image/3C532C16-256C-4C41-BDC4-F7B86BF09F71.jpeg" alt="cmivqa" width="45%" height="45%">
 </p>
 
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
