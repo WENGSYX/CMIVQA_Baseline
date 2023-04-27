@@ -52,7 +52,7 @@ pip install tqdm transformers sklearn pandas numpy glob accelerate sentencepiece
 
 请从[百度网盘](https://pan.baidu.com/s/1eN_mo3iHyyHVH_8dciElqA?pwd=9871)或者[GoogleDrive](https://drive.google.com/drive/folders/1QbY8DEaVLkY2w6vOCWAs4ZQFHgJ3q8ui?usp=sharing)中下载数据，并以以下格式放置于本地文件的NLPCC_2023_CMIVQA_TRAIN_DEV中：
 
-另外subtitle.json是本baseline单独处理完成的文件，请从[百度网盘](https://pan.baidu.com/s/1_wET0FfY5Lx3DX92m2xgPA?pwd=4K13)下载
+另外subtitle.json是本baseline单独处理完成的文件，请从[百度网盘](https://pan.baidu.com/s/1IbTfgutJDyvy-KGmWX_5-Q?pwd=PK3a)下载
 
 ```plain
 -- NLPCC_2023_CMIVQA_TRAIN_DEV
