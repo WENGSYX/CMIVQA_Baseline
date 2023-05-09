@@ -49,7 +49,7 @@
 
 ### 官方微信群由于人数较多，请添加微信好友邀请(请备注NLPCC)
 <p align="center">
-  <img src="./task1/image/tjs.jpeg" alt="cmivqa" width="45%" height="45%">
+  <img src="./task1/image/tjs.jpg" alt="cmivqa" width="45%" height="45%">
 </p>
 
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
