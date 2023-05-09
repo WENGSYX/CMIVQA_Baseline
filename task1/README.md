@@ -110,10 +110,12 @@ python test.py
 
 ## Cite
 ```
-@article{weng2022visual,
-  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
-  author={Weng, Yixuan and Li, Bin},
-  journal={arXiv preprint arXiv:2210.14823},
-  year={2022}
-}
+author={Weng, Yixuan and Li, Bin},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Visual Answer Localization with Cross-Modal Mutual Knowledge Transfer}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10095026}}
 ```
