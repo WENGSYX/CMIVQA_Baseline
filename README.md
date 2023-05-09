@@ -32,19 +32,25 @@
 
 ### 如果您在研究中使用了我们的代码，请引用以下论文：
 ```
-@article{weng2022visual,
-  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
+@INPROCEEDINGS{10095026,
   author={Weng, Yixuan and Li, Bin},
-  journal={arXiv preprint arXiv:2210.14823},
-  year={2022}
-}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Visual Answer Localization with Cross-Modal Mutual Knowledge Transfer}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10095026}}
 
-@article{li2022learning,
-  title={Learning to Locate Visual Answer in Video Corpus Using Question},
+@INPROCEEDINGS{10096391,
   author={Li, Bin and Weng, Yixuan and Sun, Bin and Li, Shutao},
-  journal={arXiv preprint arXiv:2210.05423},
-  year={2022}
-}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Learning To Locate Visual Answer In Video Corpus Using Question}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10096391}}
 ```
 
 ### 官方微信群由于人数较多，请添加微信好友邀请(请备注NLPCC)
